@@ -61,9 +61,9 @@ class rag_app():
     
     """
 
-    PROJECT_ID = "<YOUR_PROJECT_ID>"  
-    REGION = "<YOUR_REGION>"
-    CREDS_PATH = "<YOUR_CLOUD_API_CREDS_PATH>"  
+    PROJECT_ID = "cc-sa-sandbox-20200619"  
+    REGION = "asia-southeast1"
+    CREDS_PATH = "/Users/vancence.ho/Downloads/cc-sa-sandbox-creds.json"  
 
     def __init__(self) -> None:
         pass
@@ -306,6 +306,7 @@ class rag_app():
         # Run the chain
         response = rag_chain.invoke(input)
         print(response)
+        return response
 
 def main() -> None:
     """Main function which recursively asks the user for input and runs the RAG application
