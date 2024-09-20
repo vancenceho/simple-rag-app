@@ -102,7 +102,7 @@ Feel free to ask it about anything tech related! From programming languages, mac
 
 ## :pray: Acknowledgements
 
-This application was a side project I did while I was learning about RAG and Large Language Models (**LLMs**) during my internship at **Ollion** as a **Junior Data Science Intern** in 
+This application was a side project I did while I was learning about RAG and Large Language Models (**LLMs**) during my internship at **[Ollion](https://ollion.com/)** as a **Junior Data Science Intern** in 
 Fall 2024. 
 
 All content and forms of documentation are credited to:  
