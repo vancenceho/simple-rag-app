@@ -61,9 +61,9 @@ class rag_app():
     
     """
 
-    PROJECT_ID = "<YOUR_PROJECT_ID>"  
-    REGION = "<YOUR_REGION>"
-    CREDS_PATH = "<SERVICE_API_JSON_KEY_PATH>"  
+    PROJECT_ID = "cc-sa-sandbox-20200619"  
+    REGION = "asia-southeast1"
+    CREDS_PATH = "/Users/vancence.ho/Downloads/cc-sa-sandbox-creds.json"  
 
     def __init__(self) -> None:
         pass
