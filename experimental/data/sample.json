@@ -1,0 +1,18 @@
+{
+    "data": [
+        {
+            "attributes": {
+                "message": "message 1",
+                "tags": ["tag1"]
+            },
+            "id": "1"
+        },
+        {
+            "attributes": {
+                "message": "message 2",
+                "tags": ["tag2"]
+            },
+            "id": "2"
+        }
+    ]
+}
