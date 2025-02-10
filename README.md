@@ -95,7 +95,7 @@ An example of the terminal would look as followed:
 
 3. Meet `RAGGY`, your personal AI tech chatbot! :robot:
 
-If you've the steps correctly, you should be able to meet **RAGGY** on your web browser as shown in below.  
+If you've done the steps correctly, you should be able to meet **RAGGY** on your web browser as shown below.  
 Feel free to ask it about anything tech related! From programming languages, machine learning, artificial intelligence, and even natural language processing :) 
 
 ![img](./assets/raggy.png)
